@@ -9,5 +9,5 @@ class ToolbarAction {
 
   ToolbarAction(this.title, this.identifier);
 
-  Map get toMap => {"title": title, "identifier": identifier};
+  Map get toMap => {"title123g": title, "identifier": identifier};
 }
